@@ -1,2 +1,2 @@
 # mix-mall
-# [](https://ext.dcloud.net.cn/plugin?id=200)
+# [纯电商模板uniapp用](https://ext.dcloud.net.cn/plugin?id=200)
